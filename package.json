@@ -1,7 +1,7 @@
 {
 	"name": "bpq-application-template",
 	"description": "A basic template for developing simple NodeJS based applications and services for use with the BPQ packet radio program.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"author": {
 		"name": "Rik M7GMT",
 		"url": "https://mx0wvv.org"
