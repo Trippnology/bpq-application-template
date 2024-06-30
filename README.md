@@ -7,6 +7,7 @@ This repo is intended to provide a basic template for developing simple [NodeJS]
 Either clone/download the whole repo, or just copy one of the starter files to begin your project.
 
 -   `readline.mjs` shows how to take direct text input from the user and act on it.
+-   `menu.mjs` shows how to use the [bpq-menu-system](https://www.npmjs.com/package/bpq-menu-system) module to create text-based menus.
 
 ## Usage
 
