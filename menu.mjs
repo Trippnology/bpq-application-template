@@ -1,7 +1,8 @@
-import * as _ from 'lodash-es';
 import net from 'node:net';
 import readline from 'node:readline';
-import { menu } from 'bpq-menu-system';
+
+import * as _ from 'lodash-es';
+import menu from 'bpq-menu-system';
 
 const config = {
 	port: 63002,

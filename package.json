@@ -7,7 +7,7 @@
 		"url": "https://mx0wvv.org"
 	},
 	"dependencies": {
-		"bpq-menu-system": "1.0.0",
+		"bpq-menu-system": "1.0.3",
 		"lodash-es": "4.17.21"
 	}
 }
